@@ -1,0 +1,16 @@
+baseURL = 'https://greenbiker.github.io/'
+languageCode = 'pl-pl'
+title = 'Programistyczne Fugazi'
+theme = 'PaperMod'
+enableEmoji = true
+googleAnalytics = 'G-6V0LLEVBS2'
+
+[params]
+    env = 'production'
+    
+    [params.assets]
+        favicon = "favicon.svg"
+        favicon16x16 = "favicon-96x96.png"
+        favicon32x32 = "favicon-96x96.png"
+        apple_touch_icon = "apple-touch-icon.png"
+        safari_pinned_tab = "favicon.svg"

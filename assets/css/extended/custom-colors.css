@@ -1,0 +1,93 @@
+/* Custom color scheme */
+:root[data-theme="light"] {
+    /* --theme: #190e2e;              */
+    /* --entry: #251640;              */
+    /* --primary: #f9f7fb;           */
+    /* --secondary: #ff687b;          */
+    /* --tertiary: #b695c0;           */
+    /* --content: #e8dff0;            */
+    --code-block-bg: #2a1a45;
+    /* --code-bg: #33204f; */
+    /* --border: #3d2858; */
+}
+
+/* Tytuł bloga w headerze - koralowy */
+.header .nav .logo a {
+    color: #ff687b;
+}
+
+:root[data-theme="dark"] {
+    --theme: #190e2e;             
+    /* --entry: #251640;              */
+    /* --primary: #f9f7fb;           */
+    /* --secondary: #ff687b;          */
+    /* --tertiary: #b695c0;           */
+    /* --content: #e8dff0;            */
+    --code-block-bg: #2a1a45;
+    /* --code-bg: #33204f; */
+    /* --border: #3d2858; */
+}
+
+/* :root[data-theme="dark"] {
+    --theme: #190e2e;             
+    --entry: #251640;             
+    --primary: #f9f7fb;          
+    --secondary: #ff687b;         
+    --tertiary: #b695c0;          
+    --content: #e8dff0;           
+    --code-block-bg: #2a1a45;
+    --code-bg: #33204f;
+    --border: #3d2858;
+} */
+
+/* Tytuły postów - koralowy (oba motywy) */
+/* .post-title,
+.entry-header h2,
+.first-entry .entry-header h1 {
+    color: #ff687b !important;
+} */
+
+/* Summary/treść - jasny motyw */
+/* :root .entry-content {
+    color: #190e2e !important;
+} */
+
+/* Summary/treść - ciemny motyw */
+/* [data-theme="dark"] .entry-content {
+    color: #ffffff !important;
+} */
+
+/* Akcenty w linkach */
+/* a {
+    color: #ff687b;
+}
+
+a:hover {
+    color: #b695c0;
+}
+
+.post-tags a,
+.share-buttons a {
+    background: #b695c0;
+    color: #190e2e;
+}
+
+.post-tags a:hover,
+.share-buttons a:hover {
+    background: #ff687b;
+    color: white;
+} */
+
+/* Przyciski i interaktywne elementy */
+/* button,
+.button,
+input[type="submit"] {
+    background-color: #ff687b;
+    color: white;
+}
+
+button:hover,
+.button:hover,
+input[type="submit"]:hover {
+    background-color: #b695c0;
+} */
