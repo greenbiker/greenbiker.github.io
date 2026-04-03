@@ -1,6 +1,6 @@
 ---
 date: '2026-03-30T20:46:30+02:00'
-draft: true
+draft: false
 title: Coś się kończy, coś zaczyna.
 cover:
     image: images/cos-sie-konczy-cos-zaczyna/cover.png
@@ -18,7 +18,7 @@ summary: ':ship: Ten blog to nie kolejny tutorial o Pythonie czy Javie. To dzien
 
 Ten blog to nie kolejny tutorial o Pythonie czy Javie. To dziennik pokładowy pisany u progu zmian, które bezpowrotnie nadpiszą znany nam świat IT. Rejestruję tu kurs na nieznane wody.
 
-Przez ponad dekadę patrzyłem, jak zmieniają się frameworki i paradygmaty. Od PHP, przez Javę, aż po dzisiejszą dominację Pythona. Ale to, co nadchodzi teraz, to nie jest kolejna "modna technologia". To fundamentalny restart.
+Przez ponad dekadę patrzyłam, jak zmieniają się frameworki i paradygmaty. Od PHP, przez Javę, aż po dzisiejszą dominację Pythona. Ale to, co nadchodzi teraz, to nie jest kolejna "modna technologia". To fundamentalny restart.
 
 ## Dlaczego "Programistyczne Fugazi"?
 
